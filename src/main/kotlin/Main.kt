@@ -1,3 +1,10 @@
+/*
+ ini adalah multiple-line comment
+ Nama   : Bantolo Setiadi
+ Prodi  : Informatika
+ Kampus : Universitas Kristen Duta Wacana
+ */
+
 // impor agar input bisa berbagai tipe data
 import java.util.Scanner
 
